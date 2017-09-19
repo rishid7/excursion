@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h3 {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
